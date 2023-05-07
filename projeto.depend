@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1682803547 source:c:\users\igor\videos\projeto\projeto\main.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682804477 c:\users\igor\videos\projeto\projeto\projeto.h
+
+1682804090 source:c:\users\igor\videos\projeto\projeto\projeto.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682803547 source:c:\users\igor\videos\projeto\main.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682804477 c:\users\igor\videos\projeto\projeto.h
+
+1682804090 source:c:\users\igor\videos\projeto\projeto.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682806330 source:c:\users\user\documents\aulas ifsp\ed2d3\projeto de ordenação\projeto\projeto\main.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682804477 c:\users\user\documents\aulas ifsp\ed2d3\projeto de ordenação\projeto\projeto\projeto.h
+
+1682804090 source:c:\users\user\documents\aulas ifsp\ed2d3\projeto de ordenação\projeto\projeto\projeto.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682872491 source:c:\users\user\documents\aulas ifsp\ed2d3\projeto de ordenação\projeto\projeto_oficial\main.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682804477 c:\users\user\documents\aulas ifsp\ed2d3\projeto de ordenação\projeto\projeto_oficial\projeto.h
+
+1682804090 source:c:\users\user\documents\aulas ifsp\ed2d3\projeto de ordenação\projeto\projeto_oficial\projeto.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682872491 source:c:\users\user\documents\aulas ifsp\ed2d3\projeto ordenação\códigos\main.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682804477 c:\users\user\documents\aulas ifsp\ed2d3\projeto ordenação\códigos\projeto.h
+
+1682804090 source:c:\users\user\documents\aulas ifsp\ed2d3\projeto ordenação\códigos\projeto.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682872491 source:c:\users\igor\onedrive\conteúdos ifsp\estrutura de dados ii\projeto 1 ordenação\códigos\main.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
+1682804477 c:\users\igor\onedrive\conteúdos ifsp\estrutura de dados ii\projeto 1 ordenação\códigos\projeto.h
+
+1682804090 source:c:\users\igor\onedrive\conteúdos ifsp\estrutura de dados ii\projeto 1 ordenação\códigos\projeto.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"projeto.h"
+
